@@ -23,6 +23,7 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 	- [Racing](#user-content-racing)
 	- [Sandbox](#user-content-sandbox)
 	- [Puzzle](#user-content-puzzle)
+	- [Clicker](#user-content-clicker)
 	- [Others](#user-content-others)
 - [Native](#user-content-native)
 	- [Boardgame](#user-content-boardgame-1)
@@ -140,11 +141,16 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Pop Pop Win](https://github.com/dart-lang/pop-pop-win) - an implementation of Minesweeper in Dart. [Play now!](http://dart-lang.github.io/sample-pop_pop_win/)
 * [untrusted](https://github.com/AlexNisnevich/untrusted) - a meta-JavaScript adventure game by Alex Nisnevich and Greg Shuflin. [Play now!](http://alex.nisnevich.com/untrusted/)
 
+## Clicker
+* [A Dark Room](https://github.com/Continuities/adarkroom) - A Minimalist Text Adventure Game [Play now!](http://continuities.github.io/adarkroom)
+* [Particle Clicker](https://github.com/particle-clicker/particle-clicker) - An addictive incremental game that teaches players the history of high energy particle physics. [Play now!](http://cern.ch/particle-clicker)
+
 ## Others
 
 * [HeartLine](https://github.com/gamebytes/heartline.github.com) - a GGJ13 game.
 * [Squirts](https://github.com/KrofDrakula/squirts) - A well-known indie game implemented in JavaScript. [Play now!](http://is.gd/squirts)
 * [The Killer](https://github.com/JordanMagnuson/The-Killer) - a flash/as3-based "nongame". [Play it now!](http://www.gametrekking.com/the-games/cambodia/the-killer/play-now)
+* [binb](https://github.com/lpinca/binb) - A competitive, multiplayer, realtime, guess the song game. [Play now!](http://binb.nodejitsu.com)
 
 -------
 
